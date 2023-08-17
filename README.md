@@ -8,4 +8,6 @@ Demo programs for my blog entry "Hello, JIT World!"
 - make
 # runn
 - ./jit2 42;echo $?
+  - 输出:42
 - ./jit3 "++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++."
+  - 输出:Hello World!
