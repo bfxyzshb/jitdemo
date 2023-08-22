@@ -1,4 +1,4 @@
-jitdemo
+jitdemo 即时编译jit原理demo
 =======
 
 Demo programs for my blog entry "Hello, JIT World!"
