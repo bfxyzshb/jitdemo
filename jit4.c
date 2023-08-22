@@ -15,7 +15,12 @@ const unsigned char code[] =
         "\x48\x8b\x75\xf0\x89\x06\x5d\xc3\x0f\x1f\x40\x00";
 
 typedef void (*FUN)(int*, int*);
-
+/**
+ * 交互 a b二个变量的值
+ * 二种方式
+ * 1. code 赋值给func1
+ * 2. 通过mmap 赋值给func2
+ */
 void main() {
     int a = 1;
     int b = 2;

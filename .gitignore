@@ -3,4 +3,4 @@
 *.swo
 go
 *.o
-*。xml
+*.xml
