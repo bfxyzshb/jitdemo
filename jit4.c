@@ -20,6 +20,7 @@ typedef void (*FUN)(int*, int*);
  * 二种方式
  * 1. code 赋值给func1
  * 2. 通过mmap 赋值给func2
+ * gcc jit4.c -o jit4
  */
 void main() {
     int a = 1;
