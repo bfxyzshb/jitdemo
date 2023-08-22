@@ -35,4 +35,5 @@ void main() {
     printf("a= %d, b = %d\n", a, b);
     func2(&a, &b);
     printf("a= %d, b = %d\n", a, b);
+
 }
