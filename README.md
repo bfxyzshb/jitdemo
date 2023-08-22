@@ -6,7 +6,7 @@ Demo programs for my blog entry "Hello, JIT World!"
 - lua ./third_party/dynasm/dynasm.lua jit2.dasc > jit2.h
 - lua ./third_party/dynasm/dynasm.lua jit3.dasc > jit3.h
 - make
-# runn
+# run
 - ./jit2 42;echo $?
   - 输出:42
 - ./jit3 "++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++."
