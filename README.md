@@ -1,6 +1,6 @@
 jit是将热点代码翻译成机器码，加速程序运行
 =======
-jitdemo 即时编译jit原理demo,帮助理解跨平台语言代码（java go python）怎么转成机器码（注意不是字节码）然后运行的原理
+jitdemo 即时编译jit原理demo,帮助理解跨平台语言代码（java python lua等）怎么转成机器码（注意不是字节码）然后运行的原理
 =======
 
 Demo programs for my blog entry "Hello, JIT World!"
